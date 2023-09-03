@@ -1,6 +1,8 @@
 # My first training project
  Simple landing page for desktops.
 
+### ☞ [Preview](https://andrew-demchenk0.github.io/project-1-wordpress/) ☜
+
 ## 🛠 Skills
 HTML, CSS.
 
